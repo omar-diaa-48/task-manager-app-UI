@@ -1,0 +1,5 @@
+let userToken = ''
+
+export {
+    userToken
+}
